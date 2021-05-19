@@ -1,0 +1,8 @@
+{
+    "name": "pmv/todo",
+    "description": "test todo",
+    "type": "project",
+    "license": "open",
+    "minimum-stability": "dev",
+    "require": {}
+}
